@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+
+body {
+  background-color: #d8e6ff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+a {
+  color: #3a2924;
+}
+a:hover {
+   color: rgb(149, 149, 215)
+}
+
